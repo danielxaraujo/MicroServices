@@ -1,5 +1,5 @@
 {
-    "description": "Hapi Microservices",
+    "description": "Hapi Microservices and JWT",
     "repository": {
         "type": "git",
         "url": "https://github.com/danielxaraujo/MicroServices"
