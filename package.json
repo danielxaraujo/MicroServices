@@ -1,0 +1,13 @@
+{
+    "description": "Hapi Microservices",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danielxaraujo/MicroServices"
+    },
+    "dependencies": {
+        "hapi": "^14.0.0"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    }
+}
