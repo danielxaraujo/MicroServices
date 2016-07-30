@@ -5,7 +5,9 @@
         "url": "https://github.com/danielxaraujo/MicroServices"
     },
     "dependencies": {
-        "hapi": "^14.0.0"
+        "hapi": "^14.0.0",
+        "hapi-auth-jwt2": "^7.0.1",
+        "jsonwebtoken": "^7.1.7"
     },
     "devDependencies": {
         "gulp": "^3.9.1"
