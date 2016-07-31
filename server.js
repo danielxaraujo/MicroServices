@@ -27,6 +27,14 @@ server.route({
     }
 });
 
+server.route({
+    method: 'GET',
+    path: '/news',
+    handler: function(request, reply) {
+        reply('Work in progress...');
+    }
+});
+
 // Start the server
 server.start((err) => {
     if (err) {
